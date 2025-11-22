@@ -1,0 +1,13 @@
+# Allow all search engines to crawl and index the site
+User-agent: *
+Allow: /
+Disallow: 
+
+# Sitemap location
+Sitemap: https://ridellazor-pixel.github.io/video-upload-platform/sitemap.xml
+
+# Crawl delay (optional - gives server time between requests)
+Crawl-delay: 1
+
+# Request rate (optional)
+Request-rate: 1/1s
