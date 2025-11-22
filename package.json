@@ -1,0 +1,26 @@
+{
+  "name": "video-upload-platform",
+  "version": "1.0.0",
+  "description": "A simple, no-login-required video upload platform where anyone can share videos instantly!",
+  "main": "index.html",
+  "author": "ridellazor-pixel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ridellazor-pixel/video-upload-platform.git"
+  },
+  "keywords": [
+    "video",
+    "upload",
+    "platform",
+    "no-login",
+    "share",
+    "gallery",
+    "web",
+    "html5",
+    "javascript"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
